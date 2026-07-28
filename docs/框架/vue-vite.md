@@ -1,6 +1,7 @@
 ---
 autoGroup-vue: vue
 title: vite
+publish: false
 categories: 框架
 date: 2021-1-26
 tags: [vue]

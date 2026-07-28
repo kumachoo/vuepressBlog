@@ -1,6 +1,7 @@
 ---
 autoGroup-vue: vue
 title: vue中自动化引入组件，模块
+publish: false
 categories: 框架
 date: 2021-5-27
 tags: [vue]

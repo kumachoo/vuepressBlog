@@ -1,6 +1,7 @@
 ---
 autoGroup-vue: vue
 title: seo
+publish: false
 categories: 框架
 date: 2020-06-04
 tags: [vue]

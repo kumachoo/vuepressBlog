@@ -1,6 +1,7 @@
 ---
 autoGroup-vue: vue
 title: 生命周期
+publish: false
 categories: 框架
 date: 2020-09-25
 tags: [vue]

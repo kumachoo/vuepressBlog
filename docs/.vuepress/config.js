@@ -52,7 +52,6 @@ module.exports = {
         "随笔": "🎉 随笔🎉 ",
       }
     },],*/
-    ['@vuepress/back-to-top'],
     ['@vuepress/search', {
       searchMaxSuggestions: 5
     }],

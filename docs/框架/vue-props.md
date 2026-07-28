@@ -1,6 +1,7 @@
 ---
 autoGroup-vue: vue  
 title: 组件之props
+publish: false
 categories: 框架
 date: 2020-08-25
 tags: [vue]

@@ -1,5 +1,6 @@
 ---
 title: 2022工作总结
+publish: false
 categories: 随笔
 sticky: 1
 tags: [回忆录]

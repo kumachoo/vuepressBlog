@@ -1,6 +1,7 @@
 ---
 autoGroup-vue: vue
 title: vue中动态路由实现
+publish: false
 categories: 框架
 date: 2021-5-17
 tags: [vue]
